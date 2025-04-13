@@ -1,0 +1,27 @@
+/* Projects */
+.content-image-about img{
+    margin: auto;
+    min-width: 250px;
+    width: 350px;
+    border-radius: 10%;
+    margin-right: 50px;
+}
+
+.about-title{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.about-title h2{
+    font-size: 2rem;
+    margin: 0;
+    text-align: center;
+}
+
+.about.container{
+    padding-top: 20px;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
